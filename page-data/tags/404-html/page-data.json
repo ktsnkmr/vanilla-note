@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-post-js","path":"/tags/404-html/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/posts/not-found-404/"},"frontmatter":{"title":"gatsbyJSサイトにカスタム404ページを作成する"}}}]}},"pageContext":{"tag":"404.html"}},"staticQueryHashes":["1032900922","3159585216","3159585216"]}

@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-post-js","path":"/tags/dns/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/posts/start-netlify-2/"},"frontmatter":{"title":"GatsbyJSをnetlifyにデプロイする　その二"}}}]}},"pageContext":{"tag":"DNS"}},"staticQueryHashes":["1032900922","3159585216","3159585216"]}

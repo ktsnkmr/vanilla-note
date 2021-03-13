@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-post-js","path":"/tags/not-found/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/posts/not-found-404/"},"frontmatter":{"title":"gatsbyJSサイトにカスタム404ページを作成する"}}}]}},"pageContext":{"tag":"not found"}},"staticQueryHashes":["1032900922","3159585216","3159585216"]}
