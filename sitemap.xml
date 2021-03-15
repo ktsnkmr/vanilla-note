@@ -3,8 +3,9 @@
 <url> <loc>https://vanilla-note.com/posts/creating-tags-pages/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/posts/comment-out/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/posts/adding-pagination/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://vanilla-note.com/posts/gatsby-clean-git-err/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vanilla-note.com/posts/gatsby-ad-tag/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/posts/not-found-404/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vanilla-note.com/posts/gatsby-clean-git-err/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/posts/gatsbyjs-adjust-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/posts/start-gatsbyjs-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/posts/start-gatsbyjs-2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -33,6 +34,8 @@
 <url> <loc>https://vanilla-note.com/tags/surge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/twitter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/typography-js/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vanilla-note.com/tags/adsense/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vanilla-note.com/tags/default-html-js/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/gatsby-clean/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/gatsbyjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/git/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -49,6 +52,7 @@
 <url> <loc>https://vanilla-note.com/tags/plugin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/push/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://vanilla-note.com/tags/react-adsense/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/smooth-scroll/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/table-of-contents/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://vanilla-note.com/tags/tag/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
